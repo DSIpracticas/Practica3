@@ -1,0 +1,1 @@
+U:\hlocal\practica3\NavApp1.csproj;x86
